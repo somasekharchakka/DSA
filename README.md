@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/somasekharchakka/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0046-permutations](https://github.com/somasekharchakka/DSA/tree/master/0046-permutations) |
 | [0136-single-number](https://github.com/somasekharchakka/DSA/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/somasekharchakka/DSA/tree/master/0189-rotate-array) |
@@ -42,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/somasekharchakka/DSA/tree/master/0136-single-number) |
+## Binary Search
+|  |
+| ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/somasekharchakka/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 <!---LeetCode Topics End-->
