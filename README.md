@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/somasekharchakka/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/somasekharchakka/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/somasekharchakka/DSA/tree/master/0485-max-consecutive-ones) |
+| [1652-defuse-the-bomb](https://github.com/somasekharchakka/DSA/tree/master/1652-defuse-the-bomb) |
 ## Math
 |  |
 | ------- |
@@ -47,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/somasekharchakka/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+## Sliding Window
+|  |
+| ------- |
+| [1652-defuse-the-bomb](https://github.com/somasekharchakka/DSA/tree/master/1652-defuse-the-bomb) |
 <!---LeetCode Topics End-->
