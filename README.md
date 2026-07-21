@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/somasekharchakka/DSA/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/somasekharchakka/DSA/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/somasekharchakka/DSA/tree/master/0387-first-unique-character-in-a-string) |
 ## String
 |  |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/somasekharchakka/DSA/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/somasekharchakka/DSA/tree/master/0387-first-unique-character-in-a-string) |
 ## Array
 |  |
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/somasekharchakka/DSA/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/somasekharchakka/DSA/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/somasekharchakka/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/somasekharchakka/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/somasekharchakka/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/somasekharchakka/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/somasekharchakka/DSA/tree/master/0485-max-consecutive-ones) |
@@ -70,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/somasekharchakka/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/somasekharchakka/DSA/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/somasekharchakka/DSA/tree/master/0169-majority-element) |
 | [0977-squares-of-a-sorted-array](https://github.com/somasekharchakka/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Linked List
 |  |
@@ -84,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/somasekharchakka/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/somasekharchakka/DSA/tree/master/0206-reverse-linked-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/somasekharchakka/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
