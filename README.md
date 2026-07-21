@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/somasekharchakka/DSA/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/somasekharchakka/DSA/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/somasekharchakka/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/somasekharchakka/DSA/tree/master/0189-rotate-array) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/somasekharchakka/DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0061-rotate-list](https://github.com/somasekharchakka/DSA/tree/master/0061-rotate-list) |
 | [0328-odd-even-linked-list](https://github.com/somasekharchakka/DSA/tree/master/0328-odd-even-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/somasekharchakka/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
