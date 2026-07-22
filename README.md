@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/somasekharchakka/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/somasekharchakka/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Queue
 |  |
 | ------- |
@@ -110,4 +111,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/somasekharchakka/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/somasekharchakka/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
